@@ -20,6 +20,14 @@ Este projeto apresenta uma análise dos acidentes de trânsito ocorridos em sete
 - Python (pandas, seaborn, matplotlib, scikit-learn)
 - Jupyter Notebook
 
+- ##  Como executar
+- O projeto foi desenvolvido em Python usando VS Code.  
+- Basta abrir os notebooks no VS Code e rodar célula por célula.  
+- Dependências principais: `pandas`, `seaborn`, `matplotlib`, `scikit-learn`.
+
+## 📂 Estrutura
+- `01_etl_conv.ipynb` → análise exploratória dos dados.  
+- `2_analises_descritiva_2.ipynb` → gráficos e padrões temporais/espaciais e ajustes de modelos machine learning/preditivos.  
 ---
 
 ##  Principais resultados
